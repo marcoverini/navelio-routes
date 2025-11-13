@@ -1,0 +1,3 @@
+origin_city,origin_country,destination_city,destination_country,airline,aircraft
+London,UK,New York,USA,British Airways,B777
+Paris,France,Tokyo,Japan,Air France,B787
